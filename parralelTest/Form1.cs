@@ -95,7 +95,8 @@ namespace parralelTest
 
         private void linq()
         {
-            /**/List<ProcessItem> testDataList = testData();
+            /**/
+            List<ProcessItem> testDataList = testData();
             var selectedData  = from data in testDataList
                          where data.ToString().Contains("1")
                          orderby data
