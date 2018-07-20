@@ -42,3 +42,17 @@ C:\Users\Armaster\Desktop\2018.07.13_AsyncTest\AsyncTest\obj\Debug\AsyncTest.csp
 C:\Users\Armaster\Desktop\2018.07.13_AsyncTest\AsyncTest\obj\Debug\AsyncTest.csproj.CoreCompileInputs.cache
 C:\Users\Armaster\Desktop\2018.07.13_AsyncTest\AsyncTest\obj\Debug\AsyncTest.exe
 C:\Users\Armaster\Desktop\2018.07.13_AsyncTest\AsyncTest\obj\Debug\AsyncTest.pdb
+C:\Users\Armaster\Documents\github\2018.07.13_AsyncTest\AsyncTest\bin\Debug\AsyncTest.exe.config
+C:\Users\Armaster\Documents\github\2018.07.13_AsyncTest\AsyncTest\obj\Debug\AsyncTest.exe
+C:\Users\Armaster\Documents\github\2018.07.13_AsyncTest\AsyncTest\obj\Debug\AsyncTest.pdb
+C:\Users\Armaster\Documents\github\2018.07.13_AsyncTest\AsyncTest\bin\Debug\AsyncTest.exe
+C:\Users\Armaster\Documents\github\2018.07.13_AsyncTest\AsyncTest\bin\Debug\AsyncTest.pdb
+C:\Users\Armaster\Documents\github\2018.07.13_AsyncTest\AsyncTest\obj\Debug\AsyncTest.csprojResolveAssemblyReference.cache
+C:\Users\Armaster\Documents\github\2018.07.13_AsyncTest\AsyncTest\obj\Debug\MainWindow.g.cs
+C:\Users\Armaster\Documents\github\2018.07.13_AsyncTest\AsyncTest\obj\Debug\App.g.cs
+C:\Users\Armaster\Documents\github\2018.07.13_AsyncTest\AsyncTest\obj\Debug\AsyncTest_MarkupCompile.cache
+C:\Users\Armaster\Documents\github\2018.07.13_AsyncTest\AsyncTest\obj\Debug\AsyncTest_MarkupCompile.lref
+C:\Users\Armaster\Documents\github\2018.07.13_AsyncTest\AsyncTest\obj\Debug\MainWindow.baml
+C:\Users\Armaster\Documents\github\2018.07.13_AsyncTest\AsyncTest\obj\Debug\AsyncTest.g.resources
+C:\Users\Armaster\Documents\github\2018.07.13_AsyncTest\AsyncTest\obj\Debug\AsyncTest.Properties.Resources.resources
+C:\Users\Armaster\Documents\github\2018.07.13_AsyncTest\AsyncTest\obj\Debug\AsyncTest.csproj.GenerateResource.Cache

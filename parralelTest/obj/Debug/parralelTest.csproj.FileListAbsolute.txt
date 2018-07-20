@@ -1,0 +1,9 @@
+C:\Users\Armaster\Documents\github\2018.07.13_AsyncTest\parralelTest\bin\Debug\parralelTest.exe.config
+C:\Users\Armaster\Documents\github\2018.07.13_AsyncTest\parralelTest\bin\Debug\parralelTest.exe
+C:\Users\Armaster\Documents\github\2018.07.13_AsyncTest\parralelTest\bin\Debug\parralelTest.pdb
+C:\Users\Armaster\Documents\github\2018.07.13_AsyncTest\parralelTest\obj\Debug\parralelTest.csprojResolveAssemblyReference.cache
+C:\Users\Armaster\Documents\github\2018.07.13_AsyncTest\parralelTest\obj\Debug\parralelTest.Form1.resources
+C:\Users\Armaster\Documents\github\2018.07.13_AsyncTest\parralelTest\obj\Debug\parralelTest.Properties.Resources.resources
+C:\Users\Armaster\Documents\github\2018.07.13_AsyncTest\parralelTest\obj\Debug\parralelTest.csproj.GenerateResource.Cache
+C:\Users\Armaster\Documents\github\2018.07.13_AsyncTest\parralelTest\obj\Debug\parralelTest.exe
+C:\Users\Armaster\Documents\github\2018.07.13_AsyncTest\parralelTest\obj\Debug\parralelTest.pdb
